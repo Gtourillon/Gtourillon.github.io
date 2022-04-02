@@ -1,0 +1,79 @@
+body{
+	background-image: url("images/Accueil/fond.jpg");
+	background-size: 190ch;
+	background-repeat: no-repeat;
+	width: 99%;
+}
+
+h1 {
+	color: rgb(231, 247, 6);
+	text-align: center;
+	margin-top: 2cm;
+}
+
+h2{
+	position: relative;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	margin-top: 3cm;
+}
+
+.fig1 {
+	position: absolute;
+	top: 360px;
+	left: 110px;
+	overflow: auto;
+}
+
+.fig2 {
+	position: absolute;
+	top: 360px;
+	left: 41%;
+	overflow: auto;
+}
+
+.fig3 {
+	position: absolute;
+	top: 360px;
+	right: 110px;
+	overflow: auto;
+}
+
+.carré1 {
+	position: absolute;
+	top: 340px;
+	left: 85px;
+}
+
+.carré2 {
+	position: absolute;
+	top: 340px;
+	left: 39%;
+}
+
+.carré3 {
+	position: absolute;
+	top: 340px;
+	right: 85px; 
+}
+
+.tha {
+	position: absolute;
+	top: 590px;
+	left: 200px;
+	font-size:200%;
+}
+
+.mex {
+	position: absolute;
+	top: 590px;
+	left: 47%;
+	font-size:200%;
+}
+
+.laos {
+	position: absolute;
+	top: 590px;
+	right: 225px;
+	font-size:200%;
+}
