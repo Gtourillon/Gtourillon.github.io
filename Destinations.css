@@ -26,5 +26,6 @@ img {
 }
 
 .tarifs {
-    margin-left: 21%;
+    display: block;
+    margin: auto;
 }
