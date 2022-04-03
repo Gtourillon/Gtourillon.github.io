@@ -21,7 +21,8 @@ p {
 }
 
 img {
-    margin-left: 28%;
+    min-width: 100%;
+    min-height: 100%;
 }
 
 .tarifs {
